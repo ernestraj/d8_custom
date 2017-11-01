@@ -1,0 +1,5 @@
+name: D8 Example module for Rest API
+description: This module will be used for defining custom Drupal resource
+package: Custom
+type: module
+core: 8.x
